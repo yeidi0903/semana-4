@@ -1,0 +1,1 @@
+La ruta principal http://localhost:3000 muestra el mensaje "Servidor activo". La ruta http://localhost:3000/saludo muestra el mensaje "Hola comunidad". La ruta http://localhost:3000/mensaje/juan recibe el nombre enviado en la URL y responde con el mensaje "Hola juan".
